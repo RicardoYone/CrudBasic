@@ -1,0 +1,15 @@
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\bin\Debug\net8.0\Back.Api.Application.deps.json
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\bin\Debug\net8.0\Back.Api.Application.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\bin\Debug\net8.0\Back.Api.Application.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.AssemblyInfoInputs.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.AssemblyInfo.cs
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\refint\Back.Api.Application.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\ref\Back.Api.Application.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.Application.csproj.AssemblyReference.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\bin\Debug\net8.0\Back.Api.Domain.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\bin\Debug\net8.0\Back.Api.Domain.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Application\obj\Debug\net8.0\Back.Api.7D3D554E.Up2Date

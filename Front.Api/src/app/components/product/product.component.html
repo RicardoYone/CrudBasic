@@ -1,0 +1,46 @@
+<div class="product-page">
+  <h2>Productos</h2>
+
+  <div class="layout">
+    <div class="product-list">
+      <ul>
+        <li *ngFor="let p of products">
+          <div class="row">
+            <div>
+              <div class="name">{{ p.name }}</div>
+              <div class="price">${{ p.price }}</div>
+            </div>
+
+            <div class="actions">
+              <button type="button" class="edit" (click)="editProduct(p)">
+                Editar
+              </button>
+              <button type="button" class="delete" (click)="DeleteProduct(p)">
+                Eliminar
+              </button>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <div class="product-form">
+      <form [formGroup]="productForm" (ngSubmit)="SaveProduct()">
+        <label>Nombre</label>
+        <input formControlName="name" placeholder="Nombre del producto" type="text"/>
+
+        <label>Precio</label>
+        <input formControlName="price" placeholder="Precio" type="number" />
+
+        <div class="form-actions">
+          <button type="submit" class="save">
+            {{ edit ? "Actualizar" : "Agregar" }}
+          </button>
+          <button type="button" *ngIf="edit" class="cancel" (click)="CancelEdition()">
+            Cancelar
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

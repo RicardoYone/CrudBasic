@@ -1,0 +1,11 @@
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\bin\Debug\net8.0\Back.Api.Domain.deps.json
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\bin\Debug\net8.0\Back.Api.Domain.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\bin\Debug\net8.0\Back.Api.Domain.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\Back.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\Back.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\Back.Api.Domain.AssemblyInfo.cs
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\Back.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\Back.Api.Domain.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\refint\Back.Api.Domain.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\Back.Api.Domain.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Domain\obj\Debug\net8.0\ref\Back.Api.Domain.dll

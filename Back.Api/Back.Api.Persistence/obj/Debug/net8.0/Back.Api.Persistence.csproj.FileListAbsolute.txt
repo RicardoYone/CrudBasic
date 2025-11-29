@@ -1,0 +1,17 @@
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\bin\Debug\net8.0\Back.Api.Persistence.deps.json
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\bin\Debug\net8.0\Back.Api.Persistence.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\bin\Debug\net8.0\Back.Api.Persistence.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.AssemblyInfoInputs.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.AssemblyInfo.cs
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\refint\Back.Api.Persistence.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\ref\Back.Api.Persistence.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\bin\Debug\net8.0\Back.Api.Persistence.runtimeconfig.json
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\bin\Debug\net8.0\Back.Api.Domain.dll
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\bin\Debug\net8.0\Back.Api.Domain.pdb
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.csproj.AssemblyReference.cache
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.158CDD57.Up2Date
+C:\Users\ricardo.leon\Desktop\PROYECTS\Back.Api\Back.Api.Persistence\obj\Debug\net8.0\Back.Api.Persistence.genruntimeconfig.cache

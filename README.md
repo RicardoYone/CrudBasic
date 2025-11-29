@@ -28,6 +28,8 @@ CRUD es el acrónimo de **Create, Read, Update, Delete** (Crear, Leer, Actualiza
 - **Credenciales de acceso:**
   - Usuario: `ricardo`
   - Contraseña: `ricardo`
+- **JWT Token:** Al autenticarse, se genera un token que se utiliza para todas las operaciones subsecuentes
+- **Seguridad:** Las contraseñas se encriptan y desencriptan de forma segura en el backend
 
 ### Gestión de Productos
 Una vez autenticado, el usuario es redirigido a la sección de productos donde puede:
@@ -35,6 +37,8 @@ Una vez autenticado, el usuario es redirigido a la sección de productos donde p
 - ➕ **Agregar** nuevos productos
 - ✏️ **Actualizar** productos existentes
 - 🗑️ **Eliminar** productos
+
+*Todas las operaciones requieren el token JWT obtenido en el login*
 
 ## 🔧 Instalación y Configuración
 
@@ -94,14 +98,38 @@ proyecto/
 - Componentes standalone para mejor modularidad
 - Servicios para comunicación con el backend
 - Guards para protección de rutas
+- **Interceptor HTTP:** Maneja todas las respuestas del backend con formato estandarizado
+  - `statusCode`: Código de estado de la operación
+  - `messageError`: Mensaje de error (si aplica)
+  - `data`: Datos de respuesta
 
 ### Backend (C#)
 - **CQRS Pattern:** Separación clara entre comandos (escritura) y consultas (lectura)
 - **Entity Framework:** Mapeo objeto-relacional para interactuar con SQL Server
-- API RESTful para operaciones CRUD
+- **Autenticación JWT:** Sistema de tokens para operaciones seguras
+- **Encriptación de contraseñas:** Las contraseñas se encriptan y desencriptan de forma segura
+- API RESTful para operaciones CRUD con respuestas estandarizadas
 
 ## 📝 Notas Adicionales
 
+### Formato de Respuestas del Backend
+Todas las respuestas del backend siguen un formato estandarizado:
+```json
+{
+  "statusCode": 200,
+  "messageError": "",
+  "data": { /* datos de respuesta */ }
+}
+```
+Este formato es manejado automáticamente por el interceptor HTTP en el frontend.
+
+### Seguridad
+- Las contraseñas se encriptan antes de almacenarse en la base de datos
+- Sistema de desencriptación para validación de credenciales
+- Autenticación mediante JWT token
+- El token se incluye automáticamente en todas las peticiones protegidas
+
+### Consideraciones
 - El script `DataBase.sql` incluye datos de prueba para facilitar el testing
 - Las credenciales de acceso son de demostración y deben cambiarse en producción
 - El patrón CQRS permite escalar la aplicación de manera eficiente
